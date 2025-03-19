@@ -1,0 +1,7 @@
+__pycache__/
+*.pyc
+.env
+data/agentresults.json
+config/*.yaml
+.venv*
+.idea*
